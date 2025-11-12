@@ -31,7 +31,7 @@ Linked services configured for source and sink.
 Setup Instructions
 
 Clone the repository:
-Shellgit clone https://github.com/<your-repo>.gitShow more lines
+Shellgit clone (https://github.com/sagarmaheshri/azure_data_project.git) Show more lines
 
 Import pipeline JSON into Azure Data Factory.
 Configure linked services and datasets.
